@@ -1,6 +1,6 @@
 import { AsnConvert } from "@peculiar/asn1-schema";
 import { id_ce_subjectKeyIdentifier, SubjectKeyIdentifier } from "@peculiar/asn1-x509";
-import { BufferSourceConverter, Convert } from "pvtsutils";
+import { BufferSourceConverter, Convert } from "@proxyco/pvtsutils";
 import { Extension } from "../extension";
 import { cryptoProvider } from "../provider";
 

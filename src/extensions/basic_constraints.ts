@@ -1,6 +1,6 @@
 import { AsnConvert } from "@peculiar/asn1-schema";
 import { BasicConstraints as AsnBasicConstraints, id_ce_basicConstraints } from "@peculiar/asn1-x509";
-import { BufferSourceConverter } from "pvtsutils";
+import { BufferSourceConverter } from "@proxyco/pvtsutils";
 import { Extension } from "../extension";
 
 /**

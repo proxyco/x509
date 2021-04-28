@@ -1,6 +1,6 @@
 import { AsnConvert } from "@peculiar/asn1-schema";
 import { Certificate } from "@peculiar/asn1-x509";
-import { Convert } from "pvtsutils";
+import { Convert } from "@proxyco/pvtsutils";
 import { container } from "tsyringe";
 import { HashedAlgorithm } from "./types";
 import { cryptoProvider } from "./provider";

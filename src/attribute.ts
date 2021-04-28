@@ -1,6 +1,6 @@
 import { AsnConvert } from "@peculiar/asn1-schema";
 import { Attribute as AsnAttribute } from "@peculiar/asn1-x509";
-import { BufferSourceConverter } from "pvtsutils";
+import { BufferSourceConverter } from "@proxyco/pvtsutils";
 import { AsnData } from "./asn_data";
 
 /**

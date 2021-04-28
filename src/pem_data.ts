@@ -1,4 +1,4 @@
-import { BufferSourceConverter, Convert } from "pvtsutils";
+import { BufferSourceConverter, Convert } from "@proxyco/pvtsutils";
 import { AsnData } from "./asn_data";
 import { PemConverter } from "./pem_converter";
 

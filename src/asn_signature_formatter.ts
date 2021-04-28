@@ -1,4 +1,4 @@
-import { BufferSourceConverter } from "pvtsutils";
+import { BufferSourceConverter } from "@proxyco/pvtsutils";
 
 /**
  * Dependency injection identifier for `IAsnSignatureFormatter` interface

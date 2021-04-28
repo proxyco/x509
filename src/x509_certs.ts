@@ -1,7 +1,7 @@
 import * as asn1Cms from "@peculiar/asn1-cms";
 import { AsnConvert } from "@peculiar/asn1-schema";
 import { Certificate } from "@peculiar/asn1-x509";
-import { Convert } from "pvtsutils";
+import { Convert } from "@proxyco/pvtsutils";
 import { PemConverter } from "./pem_converter";
 import { AsnEncodedType, AsnExportType, PemData } from "./pem_data";
 import { X509Certificate } from "./x509_cert";

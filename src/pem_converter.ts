@@ -1,4 +1,4 @@
-import { Convert } from "pvtsutils";
+import { Convert } from "@proxyco/pvtsutils";
 
 /**
  * Represents PEM Converter.

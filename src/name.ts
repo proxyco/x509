@@ -1,6 +1,6 @@
 import { AttributeTypeAndValue, Name as AsnName, RelativeDistinguishedName } from "@peculiar/asn1-x509";
 import { AsnConvert } from "@peculiar/asn1-schema";
-import { BufferSourceConverter, Convert } from "pvtsutils";
+import { BufferSourceConverter, Convert } from "@proxyco/pvtsutils";
 
 
 export interface IdOrName {

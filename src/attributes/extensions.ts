@@ -1,7 +1,7 @@
 import { AsnConvert } from "@peculiar/asn1-schema";
 import * as asnX509 from "@peculiar/asn1-x509";
 import * as asnPkcs9 from "@peculiar/asn1-pkcs9";
-import { BufferSourceConverter } from "pvtsutils";
+import { BufferSourceConverter } from "@proxyco/pvtsutils";
 import { Attribute } from "../attribute";
 import { Extension } from "../extension";
 import { ExtensionFactory } from "../extensions";

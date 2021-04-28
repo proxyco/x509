@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/member-delimiter-style */
 
 import { AsnConvert } from "@peculiar/asn1-schema";
-import { BufferSourceConverter, isEqual } from "pvtsutils";
+import { BufferSourceConverter, isEqual } from "@proxyco/pvtsutils";
 
 /**
  * Represents an ASN.1 data

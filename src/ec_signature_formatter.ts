@@ -1,7 +1,7 @@
 import { IAsnSignatureFormatter } from "./asn_signature_formatter";
 import { ECDSASigValue } from "@peculiar/asn1-ecc";
 import { AsnConvert } from "@peculiar/asn1-schema";
-import { BufferSourceConverter, combine } from "pvtsutils";
+import { BufferSourceConverter, combine } from "@proxyco/pvtsutils";
 
 export class AsnEcSignatureFormatter implements IAsnSignatureFormatter {
 

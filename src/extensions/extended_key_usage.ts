@@ -1,6 +1,6 @@
 import { ExtendedKeyUsage, id_ce_extKeyUsage } from "@peculiar/asn1-x509";
 import { AsnConvert } from "@peculiar/asn1-schema";
-import { BufferSourceConverter } from "pvtsutils";
+import { BufferSourceConverter } from "@proxyco/pvtsutils";
 import { Extension } from "../extension";
 
 /**

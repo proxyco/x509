@@ -1,6 +1,6 @@
 import { AsnConvert, OctetString } from "@peculiar/asn1-schema";
 import { Extension as AsnExtension } from "@peculiar/asn1-x509";
-import { BufferSourceConverter } from "pvtsutils";
+import { BufferSourceConverter } from "@proxyco/pvtsutils";
 import { AsnData } from "./asn_data";
 
 /**
